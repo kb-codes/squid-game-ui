@@ -1,11 +1,22 @@
-# Sample Snack app
+# Squid Game UI in React Native
+## Overview :
+I tried to create Squid game design which purely made in React Native. Loved the process of creating it.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+![](./SG.png)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+## Figma File :
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+https://www.figma.com/file/eRQEDShMwjU4NWK2r9KCs3/Squid-game?node-id=0%3A1
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+## Installation :
+* Clone repository and install dependencies:
+``` 
+$ git clone https://github.com/kb-codes/netflix-clone.git
+$ cd netflix-clone
+$ npm i
+```
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+* Run application :
+```
+$ npm start
+```
