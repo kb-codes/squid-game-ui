@@ -11,8 +11,8 @@ https://www.figma.com/file/eRQEDShMwjU4NWK2r9KCs3/Squid-game?node-id=0%3A1
 ## Installation :
 * Clone repository and install dependencies:
 ``` 
-$ git clone https://github.com/kb-codes/netflix-clone.git
-$ cd netflix-clone
+$ git clone https://github.com/kb-codes/squid-game-ui.git
+$ cd squid-game-ui
 $ npm i
 ```
 
